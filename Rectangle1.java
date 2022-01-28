@@ -44,6 +44,6 @@ class Rectangle1{
 		System.out.println("Perimeter :"+c1.perimeter());
 		System.out.println("Is it a isSquare :"+c1.isSquare());
 	}
-}
+
 		
 	
